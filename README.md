@@ -4,15 +4,15 @@
 
 **A custom GitHub telemetry card built for [@duartess7](https://github.com/duartess7).**
 
-![Nightfall Protocol](./metrics/nightfall.svg)
-
-![Language Spectrum](./metrics/languages.svg)
+![Nightfall paired dashboard](./metrics/overview.svg)
 
 </div>
 
 ## Overview
 
 Nightfall Protocol transforms public GitHub activity into a single original SVG dashboard. It was designed from scratch to match the dark, gothic visual identity of the `duartess7` profile without depending on generic statistics-card services.
+
+The profile edition presents Nightfall Protocol and Language Spectrum as two equal, compact panels inside `metrics/overview.svg`. Full-width standalone editions remain available in `metrics/nightfall.svg` and `metrics/languages.svg`.
 
 The panel tracks:
 
