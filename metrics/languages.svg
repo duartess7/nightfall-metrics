@@ -24,7 +24,7 @@
     <circle cx="6" cy="5" r="4" fill="#b794f4" filter="url(#glow)" class="blink"/>
     <text x="22" y="9" class="kicker">SCAN / DUARTESS7</text>
     <text y="49" class="title">LANGUAGE SPECTRUM</text>
-    <text x="992" y="10" text-anchor="end" class="detail">UPDATED 2026-08-28 14:34 UTC</text>
+    <text x="992" y="10" text-anchor="end" class="detail">UPDATED 2026-08-28 15:20 UTC</text>
     <text x="992" y="48" text-anchor="end" class="kicker">PUBLIC REPOSITORIES // NO FORKS</text>
   </g>
   <g transform="translate(54 112)">
@@ -43,7 +43,7 @@
       <rect width="238" height="96" rx="8" fill="#0d0a13" stroke="#2d1b43"/>
       <path d="M0 9V0h9 M229 0h9v9 M238 87v9h-9 M9 96H0v-9" stroke="#8b5cf6" fill="none"/>
       <text x="18" y="27" class="label">CODE INDEXED</text>
-      <text x="18" y="61" class="value">10.7KB</text>
+      <text x="18" y="61" class="value">19.4KB</text>
       <text x="18" y="82" class="detail">language-classified bytes</text>
     </g><g transform="translate(810 112)">
       <rect width="238" height="96" rx="8" fill="#0d0a13" stroke="#2d1b43"/>
@@ -56,7 +56,7 @@
   <rect x="54" y="259" width="992" height="22" rx="6" fill="#171020"/>
   <clipPath id="bar"><rect x="54" y="259" width="992" height="22" rx="6"/></clipPath>
   <g clip-path="url(#bar)"><rect x="54.0" y="259" width="992.0" height="22" fill="#c7a4f6"><title>Python: 100.0%</title></rect></g>
-  <g transform="translate(54 326)"><circle cx="6" cy="-4" r="5" fill="#c7a4f6" filter="url(#glow)"/><text x="22" class="lang">Python</text><text x="310" text-anchor="end" class="pct">100.0%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="123.0" height="8" rx="4" fill="#c7a4f6"/><text x="478" text-anchor="end" class="detail">10.7KB</text></g><g transform="translate(559 326)"><rect width="487" height="74" rx="7" fill="#0c0911" stroke="#24172f" stroke-dasharray="4 5"/><text x="22" y="31" class="label">NEXT FREQUENCY</text><text x="22" y="54" class="detail">waiting for another public language signal...</text></g>
+  <g transform="translate(54 326)"><circle cx="6" cy="-4" r="5" fill="#c7a4f6" filter="url(#glow)"/><text x="22" class="lang">Python</text><text x="310" text-anchor="end" class="pct">100.0%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="123.0" height="8" rx="4" fill="#c7a4f6"/><text x="478" text-anchor="end" class="detail">19.4KB</text></g><g transform="translate(559 326)"><rect width="487" height="74" rx="7" fill="#0c0911" stroke="#24172f" stroke-dasharray="4 5"/><text x="22" y="31" class="label">NEXT FREQUENCY</text><text x="22" y="54" class="detail">waiting for another public language signal...</text></g>
   <path d="M54 433H1046" stroke="#291b39"/>
   <text x="54" y="453" class="detail">GitHub Linguist telemetry / generated automatically / public owned repositories</text>
   <text x="1046" y="453" text-anchor="end" class="kicker">NIGHTFALL SYSTEM</text>
