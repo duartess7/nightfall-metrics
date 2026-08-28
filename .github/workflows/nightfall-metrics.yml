@@ -36,8 +36,8 @@ jobs:
           python scripts/duo_metrics.py --username duartess7 --output metrics/overview.svg
       - name: Publish refreshed metrics
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "duartess7"
+          git config user.email "128036983+duartess7@users.noreply.github.com"
           git add metrics/nightfall.svg metrics/languages.svg metrics/overview.svg
           git diff --cached --quiet || git commit -m "chore: refresh Nightfall metrics"
           git push
