@@ -24,26 +24,26 @@
     <circle cx="6" cy="5" r="4" fill="#b794f4" filter="url(#glow)" class="blink"/>
     <text x="22" y="9" class="kicker">SCAN / DUARTESS7</text>
     <text y="49" class="title">LANGUAGE SPECTRUM</text>
-    <text x="992" y="10" text-anchor="end" class="detail">UPDATED 2026-08-31 06:32 UTC</text>
+    <text x="992" y="10" text-anchor="end" class="detail">UPDATED 2026-08-31 14:44 UTC</text>
     <text x="992" y="48" text-anchor="end" class="kicker">PUBLIC REPOSITORIES // NO FORKS</text>
   </g>
   <g transform="translate(54 112)">
       <rect width="238" height="96" rx="8" fill="#0d0a13" stroke="#2d1b43"/>
       <path d="M0 9V0h9 M229 0h9v9 M238 87v9h-9 M9 96H0v-9" stroke="#8b5cf6" fill="none"/>
       <text x="18" y="27" class="label">PUBLIC ARCHIVES</text>
-      <text x="18" y="61" class="value">6</text>
-      <text x="18" y="82" class="detail">4 contain code</text>
+      <text x="18" y="61" class="value">5</text>
+      <text x="18" y="82" class="detail">3 contain code</text>
     </g><g transform="translate(306 112)">
       <rect width="238" height="96" rx="8" fill="#0d0a13" stroke="#2d1b43"/>
       <path d="M0 9V0h9 M229 0h9v9 M238 87v9h-9 M9 96H0v-9" stroke="#8b5cf6" fill="none"/>
       <text x="18" y="27" class="label">LANGUAGES FOUND</text>
-      <text x="18" y="61" class="value">5</text>
+      <text x="18" y="61" class="value">4</text>
       <text x="18" y="82" class="detail">GitHub Linguist index</text>
     </g><g transform="translate(558 112)">
       <rect width="238" height="96" rx="8" fill="#0d0a13" stroke="#2d1b43"/>
       <path d="M0 9V0h9 M229 0h9v9 M238 87v9h-9 M9 96H0v-9" stroke="#8b5cf6" fill="none"/>
       <text x="18" y="27" class="label">CODE INDEXED</text>
-      <text x="18" y="61" class="value">143.6KB</text>
+      <text x="18" y="61" class="value">110.5KB</text>
       <text x="18" y="82" class="detail">language-classified bytes</text>
     </g><g transform="translate(810 112)">
       <rect width="238" height="96" rx="8" fill="#0d0a13" stroke="#2d1b43"/>
@@ -55,8 +55,8 @@
   <text x="54" y="242" class="kicker">CODE DNA // BYTE DISTRIBUTION</text>
   <rect x="54" y="259" width="992" height="22" rx="6" fill="#171020"/>
   <clipPath id="bar"><rect x="54" y="259" width="992" height="22" rx="6"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="54.0" y="259" width="517.8" height="22" fill="#c7a4f6"><title>TypeScript: 52.2%</title></rect><rect x="571.8" y="259" width="225.6" height="22" fill="#a871ed"><title>HTML: 22.7%</title></rect><rect x="797.4" y="259" width="211.9" height="22" fill="#8650cf"><title>Python: 21.4%</title></rect><rect x="1009.2" y="259" width="20.1" height="22" fill="#6639a4"><title>JavaScript: 2.0%</title></rect><rect x="1029.4" y="259" width="16.6" height="22" fill="#4b2b78"><title>CSS: 1.7%</title></rect></g>
-  <g transform="translate(54 326)"><circle cx="6" cy="-4" r="5" fill="#c7a4f6" filter="url(#glow)"/><text x="22" class="lang">TypeScript</text><text x="310" text-anchor="end" class="pct">52.2%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="64.2" height="8" rx="4" fill="#c7a4f6"/><text x="478" text-anchor="end" class="detail">75.0KB</text></g><g transform="translate(559 326)"><circle cx="6" cy="-4" r="5" fill="#a871ed" filter="url(#glow)"/><text x="22" class="lang">HTML</text><text x="310" text-anchor="end" class="pct">22.7%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="28.0" height="8" rx="4" fill="#a871ed"/><text x="478" text-anchor="end" class="detail">32.7KB</text></g><g transform="translate(54 368)"><circle cx="6" cy="-4" r="5" fill="#8650cf" filter="url(#glow)"/><text x="22" class="lang">Python</text><text x="310" text-anchor="end" class="pct">21.4%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="26.3" height="8" rx="4" fill="#8650cf"/><text x="478" text-anchor="end" class="detail">30.7KB</text></g><g transform="translate(559 368)"><circle cx="6" cy="-4" r="5" fill="#6639a4" filter="url(#glow)"/><text x="22" class="lang">JavaScript</text><text x="310" text-anchor="end" class="pct">2.0%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="2.5" height="8" rx="4" fill="#6639a4"/><text x="478" text-anchor="end" class="detail">2.9KB</text></g><g transform="translate(54 410)"><circle cx="6" cy="-4" r="5" fill="#4b2b78" filter="url(#glow)"/><text x="22" class="lang">CSS</text><text x="310" text-anchor="end" class="pct">1.7%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="2.1" height="8" rx="4" fill="#4b2b78"/><text x="478" text-anchor="end" class="detail">2.4KB</text></g>
+  <g clip-path="url(#bar)"><rect x="54.0" y="259" width="672.8" height="22" fill="#c7a4f6"><title>TypeScript: 67.8%</title></rect><rect x="726.8" y="259" width="275.3" height="22" fill="#a871ed"><title>Python: 27.8%</title></rect><rect x="1002.1" y="259" width="25.5" height="22" fill="#8650cf"><title>JavaScript: 2.6%</title></rect><rect x="1027.7" y="259" width="18.3" height="22" fill="#6639a4"><title>CSS: 1.8%</title></rect></g>
+  <g transform="translate(54 326)"><circle cx="6" cy="-4" r="5" fill="#c7a4f6" filter="url(#glow)"/><text x="22" class="lang">TypeScript</text><text x="310" text-anchor="end" class="pct">67.8%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="83.4" height="8" rx="4" fill="#c7a4f6"/><text x="478" text-anchor="end" class="detail">75.0KB</text></g><g transform="translate(559 326)"><circle cx="6" cy="-4" r="5" fill="#a871ed" filter="url(#glow)"/><text x="22" class="lang">Python</text><text x="310" text-anchor="end" class="pct">27.8%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="34.1" height="8" rx="4" fill="#a871ed"/><text x="478" text-anchor="end" class="detail">30.7KB</text></g><g transform="translate(54 368)"><circle cx="6" cy="-4" r="5" fill="#8650cf" filter="url(#glow)"/><text x="22" class="lang">JavaScript</text><text x="310" text-anchor="end" class="pct">2.6%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="3.2" height="8" rx="4" fill="#8650cf"/><text x="478" text-anchor="end" class="detail">2.8KB</text></g><g transform="translate(559 368)"><circle cx="6" cy="-4" r="5" fill="#6639a4" filter="url(#glow)"/><text x="22" class="lang">CSS</text><text x="310" text-anchor="end" class="pct">1.8%</text><rect x="326" y="-12" width="123" height="8" rx="4" fill="#171020"/><rect x="326" y="-12" width="2.3" height="8" rx="4" fill="#6639a4"/><text x="478" text-anchor="end" class="detail">2.0KB</text></g>
   <path d="M54 433H1046" stroke="#291b39"/>
   <text x="54" y="453" class="detail">GitHub Linguist telemetry / generated automatically / public owned repositories</text>
   <text x="1046" y="453" text-anchor="end" class="kicker">NIGHTFALL SYSTEM</text>
